@@ -23,8 +23,6 @@ Philosophers - Project at 42 school (42 Wolfsburg)
 
 > _Philosophers is a classic computer science project that explores the challenges of concurrency, resource sharing, and process synchronization. The task is to implement a simulation of the Dining Philosophers Problem using multithreading in C, managing access to shared resources (forks) and preventing deadlocks and race conditions. The project deepens understanding of thread management, mutexes, and the complexities of concurrent programming._
 
-For more detailed information, look at the [**subject of this project**](https://github.com/jonona912/42_philosophers/blob/main/philosophers_subject.pdf).
-
 ## 🛠️ Usage
 
 ### Requirements
